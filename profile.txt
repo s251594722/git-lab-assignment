@@ -1,3 +1,4 @@
 Name: Arisa
 Matric No: 251594722
 Course: Data Science(AI)
+Hobbies: Cooking, Playing Game
